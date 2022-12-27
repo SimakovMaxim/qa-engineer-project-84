@@ -45,3 +45,7 @@
 - summary: |
     Оформление заказа
   status: pass
+
+- summary: |
+    Подержка мультиязычности
+  status: pass
