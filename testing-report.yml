@@ -1,0 +1,43 @@
+- summary: |
+    Поиск товара по ключевому слову
+  status: pass
+  
+- summary: |
+    Поиск товара по некорректному значению
+  status: pass
+  
+- summary: |
+    Поиск по категории товара
+  status: pass
+  
+- summary: |
+    Фильтрация товара по цене
+  status: pass
+  
+- summary: |
+    Фильтрация товара по некорректной цене
+  status: pass
+  
+- summary: |
+    Фильтрация товара по цвету
+  status: fail
+  
+- summary: |
+    Фильтрация товара по размеру
+  status: fail
+  
+- summary: |
+    Просмотр товара
+  status: pass
+  
+- summary: |
+    Добавление товара в корзину
+  status: pass
+  
+- summary: |
+    Просмотр товаров в корзине
+  status: pass
+  
+- summary: |
+    Подсчет суммы товаров в корзине
+  status: pass
