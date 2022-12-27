@@ -41,3 +41,7 @@
 - summary: |
     Подсчет суммы товаров в корзине
   status: pass
+
+- summary: |
+    Оформление заказа
+  status: pass
