@@ -1,7 +1,7 @@
 ---
 test-cases:
 - summary: |
-    Регистрация на сайте
+    Успешная регистрация на сайте
   status: fail
   
 - summary: |
